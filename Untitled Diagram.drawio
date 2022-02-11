@@ -1,4 +1,4 @@
-<mxfile modified="2022-02-11T02:52:59.328Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="bfEJ_Ji05Vp0N0ij0IxG" version="16.5.5" type="github">
+<mxfile modified="2022-02-11T02:53:19.447Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="4czk9ki1aUzQyPx7Cyj0" version="16.5.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2835" dy="1621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -506,10 +506,10 @@
         <mxCell id="4csl45NmHxAK_T0GIT1x-20" value="milvus" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2420" y="-135.75" width="241.67" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="4csl45NmHxAK_T0GIT1x-21" value="sta1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="4csl45NmHxAK_T0GIT1x-21" value="instance1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="2460" y="-95.88" width="47.62" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4csl45NmHxAK_T0GIT1x-22" value="sta2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="4csl45NmHxAK_T0GIT1x-22" value="instance2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="2571.19" y="-95.88" width="47.62" height="50" as="geometry" />
         </mxCell>
       </root>
