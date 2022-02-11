@@ -1,4 +1,4 @@
-<mxfile modified="2022-02-11T02:47:17.057Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="x8vnfk-GBO9JFxdnBa3L" version="16.5.5" type="github">
+<mxfile modified="2022-02-11T02:47:35.429Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="eEPZ3hjgSu8NYBUyiTaf" version="16.5.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="3732" dy="2049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -437,7 +437,7 @@
         <mxCell id="1D48mH3xO_Sxxa785n8w-167" value="sta2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="20.74000000000001" y="-158.63" width="47.62" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1D48mH3xO_Sxxa785n8w-170" value="Patent Solr" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="1D48mH3xO_Sxxa785n8w-170" value="EKS" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="363.19" y="-197.25" width="2042.81" height="260" as="geometry" />
         </mxCell>
         <mxCell id="1D48mH3xO_Sxxa785n8w-173" value="diff-bulk" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
