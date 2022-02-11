@@ -1,6 +1,6 @@
-<mxfile modified="2022-02-11T03:10:40.723Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="B4iqktd_vKz0fbw6Mr4S" version="16.5.5" type="github">
+<mxfile modified="2022-02-11T03:11:13.389Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="VjyY47TaeeWZ0UxOxHAT" version="16.5.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="3946" dy="2207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2684" dy="1580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -515,7 +515,7 @@
         <mxCell id="4csl45NmHxAK_T0GIT1x-27" value="r5.2xlarge" style="rounded=1;arcSize=10;dashed=1;strokeColor=#ff0000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="354" y="-160.5" width="1720" height="220.5" as="geometry" />
         </mxCell>
-        <mxCell id="4csl45NmHxAK_T0GIT1x-28" value="milvus" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="4csl45NmHxAK_T0GIT1x-28" value="semantic" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2799.3" y="-130" width="241.67" height="150" as="geometry" />
         </mxCell>
         <mxCell id="4csl45NmHxAK_T0GIT1x-29" value="instance1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
