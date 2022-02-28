@@ -1,11 +1,11 @@
-<mxfile modified="2022-02-28T03:35:51.638Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="IWI2Ek__OA0uBYPgaeKb" version="16.5.6" type="github">
+<mxfile modified="2022-02-28T03:40:11.545Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="IHrR0yglbkej8xp6NaD_" version="16.5.6" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="2430" dy="1646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3872" dy="2581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="piIO3efobx600DTnA67A-5" value="DynamoDB" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="2130" width="2500" height="260" as="geometry" />
+          <mxGeometry x="-100" y="2420" width="2500" height="260" as="geometry" />
         </mxCell>
         <mxCell id="1D48mH3xO_Sxxa785n8w-170" value="EKS" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;verticalAlign=top;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="290" y="-230" width="2880" height="530" as="geometry" />
@@ -49,7 +49,7 @@
           <mxGeometry x="-400" y="62.75" width="350" height="218.75" as="geometry" />
         </mxCell>
         <mxCell id="1D48mH3xO_Sxxa785n8w-7" value="patent" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="30" y="2225" width="58.33" height="70" as="geometry" />
+          <mxGeometry x="30" y="2515" width="58.33" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1D48mH3xO_Sxxa785n8w-8" value="Redis" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.redis;fillColor=#2E73B8;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-800" y="1530" width="60" height="63" as="geometry" />
@@ -542,88 +542,214 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-3" value="DW" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="1540" width="2500" height="500" as="geometry" />
+          <mxGeometry x="-100" y="1630" width="3490" height="700" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-7" value="patent_bibillio" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="2225" width="58.33" height="70" as="geometry" />
+          <mxGeometry x="200" y="2515" width="58.33" height="70" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-8" value="patent_person" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="2225" width="58.33" height="70" as="geometry" />
+          <mxGeometry x="370" y="2515" width="58.33" height="70" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-9" value="ans" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="538.06" y="2225" width="58.33" height="70" as="geometry" />
+          <mxGeometry x="538.06" y="2515" width="58.33" height="70" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-10" value="patent_classfication" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="710.76" y="2225" width="58.33" height="70" as="geometry" />
+          <mxGeometry x="710.76" y="2515" width="58.33" height="70" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-11" value="patent_publication" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="880.76" y="2225" width="58.33" height="70" as="geometry" />
+          <mxGeometry x="880.76" y="2515" width="58.33" height="70" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-12" value="patent_person" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1050.76" y="2225" width="58.33" height="70" as="geometry" />
+          <mxGeometry x="1050.76" y="2515" width="58.33" height="70" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-13" value="patent_ancs_tree" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1218.82" y="2225" width="58.33" height="70" as="geometry" />
+          <mxGeometry x="1218.82" y="2515" width="58.33" height="70" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-14" value="patent_cite_relation" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1389.15" y="2225" width="58.33" height="70" as="geometry" />
+          <mxGeometry x="1389.15" y="2515" width="58.33" height="70" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-15" value="patent_cite" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1559.15" y="2225" width="58.33" height="70" as="geometry" />
+          <mxGeometry x="1559.15" y="2515" width="58.33" height="70" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-16" value="patent_organization_relation" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1729.15" y="2225" width="58.33" height="70" as="geometry" />
+          <mxGeometry x="1729.15" y="2515" width="58.33" height="70" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-17" value="patent_transfar" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1897.21" y="2225" width="58.33" height="70" as="geometry" />
+          <mxGeometry x="1897.21" y="2515" width="58.33" height="70" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-18" value="patent_tial_appeal" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2066.9" y="2225" width="58.33" height="70" as="geometry" />
+          <mxGeometry x="2066.9" y="2515" width="58.33" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="piIO3efobx600DTnA67A-19" value="ans" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2234.96" y="2225" width="58.33" height="70" as="geometry" />
+        <mxCell id="piIO3efobx600DTnA67A-19" value="patent_litigation" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2234.96" y="2515" width="58.33" height="70" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-22" value="ODS" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="1890" width="2380" height="120" as="geometry" />
+          <mxGeometry x="-38.68" y="2180" width="2380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-25" value="patent" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="31.68" y="1940" width="110" height="50" as="geometry" />
+          <mxGeometry x="23" y="2230" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-26" value="patent_bibillio" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="209.68" y="1940" width="110" height="50" as="geometry" />
+          <mxGeometry x="201" y="2230" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-27" value="patent_person" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="389.68" y="1940" width="110" height="50" as="geometry" />
+          <mxGeometry x="381" y="2230" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-28" value="ans" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="569.68" y="1940" width="110" height="50" as="geometry" />
+          <mxGeometry x="561" y="2230" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-29" value="patent_classfication" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="749.68" y="1940" width="110" height="50" as="geometry" />
+          <mxGeometry x="741" y="2230" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-30" value="patent_publication" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="929.51" y="1940" width="110" height="50" as="geometry" />
+          <mxGeometry x="920.83" y="2230" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-31" value="patent_ancs_tree" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110.5000000000002" y="1940" width="110" height="50" as="geometry" />
+          <mxGeometry x="1101.8200000000002" y="2230" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-32" value="patent_cite_relation" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290.44" y="1940" width="110" height="50" as="geometry" />
+          <mxGeometry x="1281.76" y="2230" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-33" value="patent_cite" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="1471.6800000000003" y="1940" width="110" height="50" as="geometry" />
+          <mxGeometry x="1463.0000000000002" y="2230" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-34" value="patent_organization_relation" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="1940" width="170.75" height="50" as="geometry" />
+          <mxGeometry x="1611.32" y="2230" width="170.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="piIO3efobx600DTnA67A-35" value="patent_transfar" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="1825.1200000000001" y="1940" width="110" height="50" as="geometry" />
+          <mxGeometry x="1816.44" y="2230" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="piIO3efobx600DTnA67A-36" value="patent_bibillio" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="2000.7500000000002" y="1940" width="110" height="50" as="geometry" />
+        <mxCell id="piIO3efobx600DTnA67A-36" value="patent_tial_appeal" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1992.0700000000002" y="2230" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="piIO3efobx600DTnA67A-37" value="patent_bibillio" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="2178.32" y="1940" width="110" height="50" as="geometry" />
+        <mxCell id="piIO3efobx600DTnA67A-37" value="patent_litigation" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2169.6400000000003" y="2230" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-44" value="DWD" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="1850" width="2380" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-45" value="patent" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="21.18" y="1900" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-46" value="patent_bibillio" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="199.18" y="1900" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-47" value="patent_person" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="379.18" y="1900" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-48" value="ans" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="559.18" y="1900" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-49" value="patent_classfication" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="739.18" y="1900" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-50" value="patent_publication" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="919.01" y="1900" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-51" value="patent_ancs_tree" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100.0000000000002" y="1900" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-52" value="patent_cite_relation" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1279.94" y="1900" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-53" value="patent_cite" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1461.1800000000003" y="1900" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-54" value="patent_organization_relation" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1609.5" y="1900" width="170.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-55" value="patent_transfar" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1814.6200000000001" y="1900" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-56" value="patent_tial_appeal" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1990.2500000000002" y="1900" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-57" value="patent_litigation" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2167.82" y="1900" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-58" value="patent" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="21.18" y="1980" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-59" value="patent_bibillio" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="199.18" y="1980" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-60" value="patent_person" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="379.18" y="1980" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-61" value="ans" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="559.18" y="1980" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-62" value="patent_classfication" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="739.18" y="1980" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-63" value="patent_publication" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="919.01" y="1980" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-64" value="patent_ancs_tree" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100.0000000000002" y="1980" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-65" value="patent_cite_relation" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1279.94" y="1980" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-66" value="patent_cite" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1461.1800000000003" y="1980" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-67" value="patent_organization_relation" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1609.5" y="1980" width="170.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-68" value="patent_transfar" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1814.6200000000001" y="1980" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-69" value="patent_tial_appeal" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1990.2500000000002" y="1980" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-70" value="patent_litigation" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2167.82" y="1980" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-71" value="patent" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="21.18" y="2060" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-72" value="patent_bibillio" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="199.18" y="2060" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-73" value="patent_person" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="379.18" y="2060" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-74" value="ans" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="559.18" y="2060" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-75" value="patent_classfication" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="739.18" y="2060" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-76" value="patent_publication" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="919.01" y="2060" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-77" value="patent_ancs_tree" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100.0000000000002" y="2060" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-78" value="patent_cite_relation" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1279.94" y="2060" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-79" value="patent_cite" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1461.1800000000003" y="2060" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-80" value="patent_organization_relation" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1609.5" y="2060" width="170.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-81" value="patent_transfar" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1814.6200000000001" y="2060" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-82" value="patent_tial_appeal" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1990.2500000000002" y="2060" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-83" value="patent_litigation" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2167.82" y="2060" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-85" value="DWS" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-33.18" y="1700" width="2373.18" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="piIO3efobx600DTnA67A-86" value="Companont" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="1690" width="950" height="610" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
